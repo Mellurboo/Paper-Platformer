@@ -1,4 +1,4 @@
-# My Unreal Engine 2D Game
+# Paper 2D Platformer
 
 ![Image in Unreal Engine](https://raw.githubusercontent.com/Mellurboo/Paper-Platformer/refs/heads/main/.github/hero.png)
 
